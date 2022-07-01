@@ -30,6 +30,10 @@
 {"vulnid": "CVE-2022-24823",
  "comment": "Java6 and below only."},
 {"vulnid": "CVE-2021-3887",
- "comment": "Rejected."}
+ "comment": "Rejected."},
+{"vulnid": "GHSA-rwqr-c348-m5wr",
+ "comment": "Withdrawn."},
+{"vulnid": "CVE-2022-33124",
+ "comment": "Withdrawn."}
 ]
 }
