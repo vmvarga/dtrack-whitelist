@@ -34,6 +34,9 @@
 {"vulnid": "GHSA-rwqr-c348-m5wr",
  "comment": "Withdrawn."},
 {"vulnid": "CVE-2022-33124",
- "comment": "Withdrawn."}
+ "comment": "Withdrawn."},
+{"vulnid": "CVE-2022-29361",
+ "comment": "This cve is invalid, if you're running the dev server in production you have bigger security issues."}
+
 ]
 }
