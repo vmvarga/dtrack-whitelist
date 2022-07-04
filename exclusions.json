@@ -36,7 +36,8 @@
 {"vulnid": "CVE-2022-33124",
  "comment": "Withdrawn."},
 {"vulnid": "CVE-2022-29361",
- "comment": "This cve is invalid, if you're running the dev server in production you have bigger security issues."}
-
+ "comment": "This cve is invalid, if you're running the dev server in production you have bigger security issues."},
+ {"vulnid": "sonatype-2019-0673",
+  "comment": "https://github.com/bcgit/bc-java/issues/634#issuecomment-814955246"}
 ]
 }
