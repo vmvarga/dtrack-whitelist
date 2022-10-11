@@ -49,6 +49,10 @@
  "comment": "Not considered by maintainer as software issue https://github.com/h2database/h2database/issues/1294"},
 {"vulnid": "sonatype-2018-0863",
  "comment": "Not considered by maintainer as software issue https://github.com/h2database/h2database/issues/1294"},
+{"vulnid": "CVE-2022-42003",
+ "comment": "Suppress as no fix available until jackson 2.14 release"},
+{"vulnid": "GHSA-jjjh-jjxp-wpff",
+ "comment": "Suppress as no fix available until jackson 2.14 release"},
 {"vulnid": "sonatype-2021-4916",
  "comment": "https://github.com/bcgit/bc-java/issues/925#issuecomment-814642559"}
 ]
