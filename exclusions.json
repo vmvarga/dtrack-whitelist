@@ -57,9 +57,6 @@
  "comment": "Suppress as no fix available until jackson 2.14 release"},
 {"vulnid": "CVE-2022-38752",
  "comment": "https://bitbucket.org/snakeyaml/snakeyaml/issues/531/stackoverflow-oss-fuzz-47081"},
-{"vulnid": "GHSA-j8jw-g6fq-mp7h",
- "purl": ["pkg:maven/org.hibernate/hibernate-core@5.3.28.Final?type=jar"],
- "comment": "Fixed for >= 5.3.20Final https://hibernate.atlassian.net/browse/HHH-14225?jql=project%20%3D%20HHH%20AND%20fixVersion%20in%20(5.3.20)%20ORDER%20BY%20updated"},
 {"vulnid": "sonatype-2021-4916",
  "comment": "https://github.com/bcgit/bc-java/issues/925#issuecomment-814642559"}
 ]
