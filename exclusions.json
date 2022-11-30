@@ -59,6 +59,8 @@
  "comment": "https://bitbucket.org/snakeyaml/snakeyaml/issues/531/stackoverflow-oss-fuzz-47081"},
 {"vulnid": "sonatype-2020-0026",
  "comment": "Not a netty issue https://github.com/netty/netty/issues/9930"},
+{"vulnid": "sonatype-2022-6127",
+ "comment": "Invalid issue"},
 {"vulnid": "sonatype-2021-4916",
  "comment": "https://github.com/bcgit/bc-java/issues/925#issuecomment-814642559"}
 ]
