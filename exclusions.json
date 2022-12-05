@@ -65,6 +65,10 @@
  "comment": "Not a netty issue https://github.com/netty/netty/issues/9930"},
 {"vulnid": "sonatype-2022-6127",
  "comment": "Invalid issue"},
+{"vulnid": "CVE-2022-1471",
+ "comment": "https://bitbucket.org/snakeyaml/snakeyaml/issues/561/cve-2022-1471-vulnerability-in"},
+{"vulnid": "GHSA-mjmj-j48q-9wg2",
+ "comment": "https://bitbucket.org/snakeyaml/snakeyaml/issues/561/cve-2022-1471-vulnerability-in"},
 {"vulnid": "sonatype-2021-4916",
  "comment": "https://github.com/bcgit/bc-java/issues/925#issuecomment-814642559"}
 ]
