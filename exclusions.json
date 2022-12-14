@@ -7,6 +7,8 @@
  "purl": ["pkg:pypi/httpx@0.23.0"]},
 {"vulnid": "CVE-2016-1000027",
  "comment":"https://github.com/spring-projects/spring-framework/issues/24434#issuecomment-744519525"},
+{"vulnid": "GHSA-4wrc-f8pq-fpqp",
+ "comment":"https://github.com/spring-projects/spring-framework/issues/24434#issuecomment-744519525"},
 {"vulnid": "sonatype-2020-0926",
  "comment": "https://github.com/google/guava/issues/4011"},
 {"vulnid": "CVE-2020-5408",
