@@ -79,6 +79,8 @@
  "comment": "Withdrawn"},
 {"vulnid": "CVE-2020-13091",
  "comment": "Disputed"},
+{"vulnid": "GHSA-xfg6-62px-cxc2",
+ "comment": "Duplicate of GHSA-24rp-q3w6-vc56"},
 {"vulnid": "sonatype-2021-4916",
  "comment": "https://github.com/bcgit/bc-java/issues/925#issuecomment-814642559"}
 ]
